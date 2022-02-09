@@ -10,7 +10,7 @@ public class TwoDimensionalArray {
 		for(int [] floor:rents) {
 			System.out.println();
 			for(int bdrm:floor)
-				System.out.print(bdrm + "\s");
+				System.out.print(bdrm + "\s this is test 1");
 		}
 		
 		//int [] num1,num2,num 3 //all are arrays
